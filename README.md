@@ -1,6 +1,6 @@
  Hey, hey  👋
 
-I an victoria J and I am currently learning to become a DevOps Engineer Level up in Tech.
+I am victoria J and I am currently learning to become a DevOps Engineer Level up in Tech.
 
 
 - 📫 How to reach me: lilmissvick2007@yahoo.com
